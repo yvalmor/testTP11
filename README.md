@@ -11,4 +11,6 @@ Pour l'utiliser :
 * faire _./test.sh_ (lance l'éxécutable)
 * regarder les résultats
 
-Si vous avez implémenter les bonus (notamment branch et checkout), le résultat de 
+Si vous avez implémenter les bonus (notamment branch et checkout), le résultat de commit sera 66% ce qui est normal.
+
+J'essairai d'implémenter des tests pour les bonus ce week-end.
